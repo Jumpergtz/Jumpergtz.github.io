@@ -1,0 +1,37 @@
+body{
+    background-color:#FAF9DA;
+}
+
+h1{
+    font-family: 'Germania One', cursive;
+    text-align:center
+}
+
+.lol{
+    font-family: 'Anton', sans-serif;
+}
+
+footer{
+    background-color:#fc7b02;
+    border:1px solid black; 
+}
+
+.p{
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+
+}
+.img{
+    max-width: 300px;
+    max-height: 3000px;
+}
+.ra{
+    font-family: 'Dancing Script', cursive;
+}
+main{
+    text-align:center;
+}
+.section{
+margin:auto;
+}
+
